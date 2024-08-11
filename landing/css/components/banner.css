@@ -1,0 +1,13 @@
+.banner{
+  width: 100%;
+  height: 450px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  justify-content: center; /* Centers the child horizontally */
+  align-items: center; /* Centers the child vertically */
+  color:white;
+}
